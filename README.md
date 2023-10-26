@@ -5,8 +5,6 @@ The Zoo Management System is a Java program that helps manage a virtual zoo by p
 1. Features
 2. Getting Started
 3. Usage
-4. License
-5. Features
    
 ### Admin Features
 1. Manage Attractions: Add, view, modify, and remove attractions in the zoo.
